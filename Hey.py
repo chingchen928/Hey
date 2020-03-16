@@ -1,0 +1,6 @@
+Name = input('Your Name:')
+print('Hello', Name)
+Height = input('Your Height:')
+Weight = input('Your Weight:')
+print('Hello,',Name,',', 'this is your height:', Height, ',and this is your weight:', Weight)
+print('Good Night')
